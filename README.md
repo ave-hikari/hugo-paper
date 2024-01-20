@@ -43,7 +43,7 @@ disqusShortname = 'YOUR_DISQUS_SHORTNAME'   # use disqus comments
   color = 'linen'                           # linen, wheat, gray, light
 
   # header social icons
-  twitter = 'YOUR_TWITTER_ID'               # twitter.com/YOUR_TWITTER_ID
+  x = 'YOUR_TWITTER_ID'               # twitter.com/YOUR_TWITTER_ID
   github = 'YOUR_GITHUB_ID'                 # github.com/YOUR_GITHUB_ID
   instagram = 'YOUR_INSTAGRAM_ID'           # instagram.com/YOUR_INSTAGRAM_ID
   linkedin = 'YOUR_LINKEDIN_ID'             # linkedin.com/in/YOUR_LINKEDIN_ID
